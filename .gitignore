@@ -1,4 +1,4 @@
-.env
+﻿.env
 *.pyc
 __pycache__/
 token.json
